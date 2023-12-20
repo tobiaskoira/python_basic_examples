@@ -1,0 +1,1 @@
+In this programme you will be asked about what you plan to do and when the day when you plan to do this thing. The programme send plans according weekday to the txt files (Monday, Tuesday...Sunday). Finally programme count how many things you planned to do and print the whole number and the list of todo things.
